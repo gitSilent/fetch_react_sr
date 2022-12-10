@@ -1,0 +1,12 @@
+.search_cont{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.search_cont button{
+    width: 150px;
+    height: 25px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
